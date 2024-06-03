@@ -4,7 +4,7 @@ Research paper supplement and code example of using SynthEval for executing a mo
 This repository is linked as supplementary material for 
 ```
 @misc{Lautrup2024,
-    author          = {Lautrup, Anton D and Hyrup, Tobias and Zimek, Arthur and Schneider-Kamp, Peter}, 
+    author          = {Anton D Lautrup and Tobias Hyrup and Arthur Zimek and Peter Schneider-Kamp}, 
     title           = {Systematic review of generative modelling tools and utility metrics for fully synthetic tabular data},
     year            = {2024},
 }
